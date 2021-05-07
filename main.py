@@ -28,7 +28,7 @@ def game():
                 print("😔😕")
 
     elif user == "tunnel":
-        print("Train Tunnel !!! mmm.... okay, Let's go towards the tunnel, just one doubt that there should not be any train coming 😥. You made it to the tunnel and as the creature cannot go into the darkness, it is still outside. Wait... There is a sound of the horn of a train ! You are right in the middle of the tunnel and cannot run outside just in time to survive from the train, so you lie flat sideways along the walls of the tunnel hoping to survive aaannd... Wooaahh !!! You got saved, and guess what ! The ofendasaurus got hit by the train and it died, you managed to get out, ALIVE !!! 🥳")
+        print("Train Tunnel ? Okay, Let's head towards the Tunnel, just one doubt that there should not be any train coming 😥. You made it to the tunnel and as the creature cannot go into the darkness, it is still outside. Wait... There is a sound of the horn of a train ! You are right in the middle of the tunnel and cannot run outside just in time to survive from the train, so you lie flat sideways along the walls of the tunnel hoping to survive aaannd... Wooaahh !!! You got saved, and guess what ! The ofendasaurus got hit by the train and it died, you managed to get out, ALIVE !!! 🥳")
 
     else:
         print("Invalid Input !!! \n Well, sometimes, by mistake, you enter a wrong choice and it costs you, so the ofendasaurus was behind you and it caught you. 😥")
